@@ -22,6 +22,7 @@
    - Installed rust-lang for user RAI and ADMIN. I added the rust add-on to VScode
    - Bookmarked the rust-book in Edge/Favoritenleiste/rust.
    - Bookmarked the Brown.Edu rust-book in Edge/Favoritenleiste/rust. 
+   - GitHub set-up is made on Sion-Desk with passkey. Authorization with Windows Account Log-In (Windows Hello)
 
 2. What did not work ?
 
