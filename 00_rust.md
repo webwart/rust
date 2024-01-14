@@ -74,6 +74,8 @@ VERB---documention of set-up, SP and progress (Journal section)
 
 -2- Removed /Rainer/projects folder to /PUB/03_src/rust/rust-book/
 
+-3- Insralled github-cli on Naples-Lab and copied the repo /rust/
+
 ### SUN 16-01-2022
 
 -1- Updated this file
